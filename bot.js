@@ -31,15 +31,6 @@ function getSales() {
     womens,
     mens
   }
-  // return rp.get('https://m.gilt.com/api/1.0/sales')
-  //   .then(response => {
-  //     console.log('We have'+ sales);
-  //     return 'Gilt says that there are women sales, awesome';
-  //   })
-  //   .catch(function (err) {
-  //     console.log('Got error: '+ e.message);
-  //     return 'Oops, somethings not right'
-  //   });
   return sales
 }
 
