@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "alexa-gilt-executor",
+    "name": "alexa-gilt",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "myducfd955",
+    "module": "bot"
+  }
+}
